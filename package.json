@@ -2,6 +2,7 @@
   "name": "vercel-telegram-stream-proxy",
   "version": "0.1.0",
   "description": "Vercel serverless function to stream Telegram files with Range support (signed URLs)",
+  "type": "module",
   "engines": {
     "node": "22.x"
   },
